@@ -1,2 +1,3 @@
 # BeatTheGameBot
-BeatTheGameBot has one goal "To Beat The Game" , Made in Python with the Minescript Mod and uses Baritone's Pathfinding 
+## How to Use ?
+You can't yet, wait a little but if u wanna stay prepared anyways you need Python , Minescript Mod and ofc Baritone
